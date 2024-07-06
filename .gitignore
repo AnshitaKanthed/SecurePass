@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+
+# Dependency directories
+venv/
+env/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Output files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore local settings
+instance/
+config.py
+
+# Ignore the virtual environment
+venv/
+DS_Store
